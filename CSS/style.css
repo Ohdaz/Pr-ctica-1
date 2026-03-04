@@ -1,0 +1,33 @@
+h1 {
+    color:cadetblue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:aquamarine;
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+#p1 {
+    color: slategray;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    justify-content: center;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+#dramasect p {
+    color: slategray;
+}
